@@ -34,7 +34,7 @@ qb-menu (optional, if extended later)
 
 Download or clone this repository:
 
-git clone https://github.com/yourname/mxd-repairkit
+git clone https://github.com/Gouthamkrizz/MXD-REPAIRKIT
 
 
 Place the folder into your resources directory.
